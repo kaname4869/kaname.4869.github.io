@@ -20,7 +20,7 @@
     <style>
         body{
         background-image:url('Image_20240611024915.jpg');
-        background-size:100%;
+        background-size:390px 844px;
         background-position:center;
         background-repeat:no-repeat;
         }
