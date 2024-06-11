@@ -21,12 +21,9 @@
         body{
         background-image:url('Image_20240611024915.jpg');
         background-size:cover;
-        background-position:center center;
+        background-position:center;
         background-repeat:no-repeat;
-        margin: 0;
-        padding: 0;
-        height: 100vh;
-        width: 100%;
+            
         }
     </style>
     </head>
