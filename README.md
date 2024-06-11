@@ -20,9 +20,13 @@
     <style>
         body{
         background-image:url('Image_20240611024915.jpg');
-        background-size:390px 844px;
-        background-position:center;
+        background-size:cover;
+        background-position:center center;
         background-repeat:no-repeat;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        width: 100%;
         }
     </style>
     </head>
@@ -47,6 +51,3 @@
          <li><a href="https://www.instagram.com/6.12_h_y?igsh=dGk5cGRncWo1bXg1&utm_source=qr">instagram</a></li>
          <li><a href="yuki162.pdf">プレゼント引換券</a></li>
           </ul>
-
-    </body>
-</html>
